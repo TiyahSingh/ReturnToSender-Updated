@@ -73,3 +73,8 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Local clone of unreal-mcp upstream (not part of game)
+Tools/unreal-mcp-repo/
+Tools/*_log.txt
+Tools/*log.txt
